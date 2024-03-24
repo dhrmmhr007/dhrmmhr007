@@ -1,5 +1,9 @@
 ### Hi there 👋
-#### 🌱I’m currently learning web development
+#### 🌱I’m currently learning 
+####🔭 I’m currently working on ... HTML, Javascript & CSS
+####🌱 I’m currently learning ... Web Development 😊
+####⚡ Fun fact: I love listening music, cooking, and traveling
+🎸 Would love: To know how to play guitar
 <!--
 **dhrmmhr007/dhrmmhr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
